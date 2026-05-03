@@ -25,5 +25,8 @@ A eficiência logística é o principal fator de impacto na satisfação do clie
 ## ▶️ Como executar
 Abra o notebook no Google Colab e execute as células.
 
+## ▶️ Link apresentação google slides:
+ https://docs.google.com/presentation/d/1j_qvwZZSFHhwiy9Wnd3slnetc_yAS0A62RzqAVawdOc/edit?usp=sharing
+
 ## 👤 Autor
 Pedro Eduardo Garcia Silva
